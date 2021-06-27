@@ -5,6 +5,6 @@
 - [X] Markups
 - [X] CSS custom properties
 - [X] Basic styling
-- [] Layout
+- [X] Layout
 - [] Adding Complexity
 ```
