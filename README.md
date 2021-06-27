@@ -6,7 +6,7 @@
 
 ### Intro
 
-Creating responsive sites.
+Creating a responsive sites.
 
 ## Technologies Used
 
