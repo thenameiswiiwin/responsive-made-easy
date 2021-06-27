@@ -6,7 +6,7 @@
 
 ### Intro
 
-Creating a responsive sites.
+Responsive sites that focus on mobile-first design.
 
 ## Technologies Used
 
@@ -26,4 +26,34 @@ git clone https://github.com/thenameiswiiwin/responsive-made-easy.git
 
 ```Change Directory
 cd responsive-made-easy
+```
+
+### StyleLint and Prettier
+
+```Run all scripts (lint: stylelint, prettier)
+npm run lint
+```
+
+## Folders Architecture
+
+```
+.
+│
+├── assets/
+│
+├── css/
+│ ├── components/
+│ │ ├── \_1-variables.css
+│ │ ├── \_2-variables.css
+│ │ ├── \_3-global.css
+│ │ ├── \_4-banner.css
+│ │ ├── \_5-nav.css
+│ │ ├── \_6-hero.css
+│ ├── main.css
+│
+├── design/
+│
+├── .gitignore
+├── index.html
+└── README.md
 ```

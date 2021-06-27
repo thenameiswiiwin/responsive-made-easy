@@ -1,0 +1,14 @@
+@media (min-width: 40em) {
+  header,
+  section {
+    padding: 7rem 0;
+  }
+
+  .split {
+    flex-direction: row;
+    gap: 2em;
+  }
+  .split > * {
+    flex-basis: 100%;
+  }
+} ;

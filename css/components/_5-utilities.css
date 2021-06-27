@@ -1,0 +1,28 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-beige {
+  background-color: var(--clr-primary-beige);
+}
+.bg-white {
+  background-color: var(--clr-neutral-white);
+}
+.bg-green {
+  background-color: var(--clr-primary-green);
+  color: var(--clr-neutral-white);
+}
+.bg-brown {
+  background-color: var(--clr-primary-brown);
+  color: var(--clr-neutral-white);
+}
+
+.bg-green h2,
+.bg-brown h2 {
+  color: var(--clr-primary-beige);
+}
+
+.split {
+  display: flex;
+  flex-direction: column;
+}

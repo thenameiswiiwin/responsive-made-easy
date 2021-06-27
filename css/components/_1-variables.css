@@ -1,0 +1,17 @@
+:root {
+  --clr-primary-beige: #f3eed9;
+  --clr-primary-brown: #824936;
+  --clr-primary-green: #222c2a;
+
+  --clr-neutral-white: #fff;
+
+  --ff-primary: "Roboto", sans-serif;
+  --ff-secondary: "Playfair Display", serif;
+
+  --fw-light: 300;
+  --fw-normal: 400;
+  --fw-black: 700;
+
+  --min-height: 41.25rem;
+  --max-width: 70.5rem;
+}

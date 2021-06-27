@@ -1,0 +1,18 @@
+header,
+section {
+  padding: 4rem 0;
+}
+
+h2,
+p {
+  margin-bottom: 1em;
+}
+
+.container {
+  margin-inline: auto;
+  width: min(90%, var(--max-width));
+}
+
+.container--narrow {
+  max-width: 35rem;
+}
