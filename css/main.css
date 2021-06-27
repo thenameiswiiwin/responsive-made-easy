@@ -53,7 +53,7 @@ h2 {
 /* LAYOUT */
 header,
 section {
-	padding: 3rem 0;
+	padding: 4rem 0;
 }
 
 h2,
@@ -94,3 +94,24 @@ p {
 .bg-brown h2 {
 	color: var(--clr-primary-beige);
 }
+
+.split {
+	display: flex;
+	flex-direction: column;
+}
+
+/* MEDIA QUERIES */
+@media (min-width: 40em) {
+	header,
+	section {
+		padding: 7rem 0;
+	}
+
+	.split {
+		flex-direction: row;
+		gap: 2em;
+	}
+	.split > * {
+		flex-basis: 100%;
+	}
+} ;

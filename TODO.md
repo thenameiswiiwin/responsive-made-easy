@@ -6,5 +6,5 @@
 - [X] CSS custom properties
 - [X] Basic styling
 - [X] Layout
-- [] Adding Complexity
+- [X] Adding Complexity (Split, Media Queries)
 ```
