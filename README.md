@@ -1,6 +1,6 @@
 # Responsive Made Easy
 
-![Design preview](./design/flexbox-challenge-4.pdf)
+![Design preview](./design/design-preview.png)
 
 ## Welcome !!! 👋
 
