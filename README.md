@@ -28,6 +28,10 @@ git clone https://github.com/thenameiswiiwin/responsive-made-easy.git
 cd responsive-made-easy
 ```
 
+```Install Local Nodes Dev Dependencies
+npm install
+```
+
 ### StyleLint and Prettier
 
 ```Run all scripts (lint: stylelint, prettier)
