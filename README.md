@@ -54,6 +54,9 @@ npm run lint
 ├── design/
 │
 ├── .gitignore
+├── .prettierrc.json
+├── .stylelintrc.json
 ├── index.html
+├── package.json
 └── README.md
 ```
