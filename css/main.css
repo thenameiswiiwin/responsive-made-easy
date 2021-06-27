@@ -1,3 +1,21 @@
+:root {
+	--clr-primary-beige: #f3eed9;
+	--clr-primary-brown: #824936;
+
+	--clr-neutral-white: #fff;
+	--clr-neutral-green: #222c2a;
+
+	--ff-primary: 'Roboto', sans-serif;
+	--ff-accent: 'Playfair Display', serif;
+
+	--fw-light: 300;
+	--fw-normal: 400;
+	--fw-black: 700;
+
+	--min-height: 660px;
+	--max-width: 1128px;
+}
+
 *,
 *::before,
 *::after {

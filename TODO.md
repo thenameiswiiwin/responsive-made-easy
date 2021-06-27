@@ -3,7 +3,7 @@
 ```
 - [X] Google Fonts / Link Stylesheet
 - [X] Markups
-- [] CSS custom properties
+- [X] CSS custom properties
 - [] Basic styling
 - [] Layout
 - [] Adding Complexity
